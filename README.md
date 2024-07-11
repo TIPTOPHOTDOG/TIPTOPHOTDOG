@@ -18,13 +18,13 @@
 <h3>🧑🏻‍💻 SOCIALS</h3>
 
 <div align="left">
-  <a href="https://vk.com/dm_logunov"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/VK_black.svg" height="45" alt="vk logo" /></a>
+  <a href="https://vk.com/dm_logunov"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/VK_white.svg" height="45" alt="vk logo" /></a>
   <img width="12" />
-  <a href="https://t.me/tiptophotdog"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Telegram_black.svg" height="45" alt="Telegram logo" /></a>
+  <a href="https://t.me/tiptophotdog"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Telegram_white.svg" height="45" alt="Telegram logo" /></a>
   <img width="12" />
-  <a href="https://twitch.tv/tiptophotdog"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Twitch_black.svg" height="45" alt="Twitch logo" /></a>
+  <a href="https://twitch.tv/tiptophotdog"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Twitch_white.svg" height="45" alt="Twitch logo" /></a>
   <img width="12" />
-  <a href="https://discord.gg/UXqd72F3Bx"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Discord_black.svg" height="45" alt="Discord logo" /></a>
+  <a href="https://discord.gg/UXqd72F3Bx"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Discord_white.svg" height="45" alt="Discord logo" /></a>
   <img width="12" />
 </div>
 
