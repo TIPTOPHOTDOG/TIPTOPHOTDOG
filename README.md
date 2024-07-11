@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/rybakooov/rybakov/master/assets/images/pixel-man.gif)
 
-## TIPTOPHOTDOG (LOGUNOV DANILA Mikhailovich)
+## TIPTOPHOTDOG (LOGUNOV DANILA MIKHAILOVICH)
 
 <h3>👨🏻‍🎓 ABOUT</h3>
 
