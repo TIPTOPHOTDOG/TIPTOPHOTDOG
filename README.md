@@ -26,6 +26,8 @@
   <img width="12" />
   <a href="https://discord.gg/UXqd72F3Bx"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Discord_white.svg" height="45" alt="Discord logo" /></a>
   <img width="12" />
+   <a href="mailto:logunov.danila.2005@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Gmail_white.svg" height="45" alt="Gmail logo" /></a>
+  <img width="12" />
 </div>
 
 ##
