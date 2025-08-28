@@ -24,7 +24,6 @@
   <a href="https://t.me/logunov_danila"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Telegram_white.svg" height="45" alt="Discord logo" /></a>
   <img width="12" />
 </div>
-@logunov_danila
 
 ##
 
