@@ -92,4 +92,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="postgresql"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx logo"  />
+  <img width="12" />
 </div>
