@@ -27,7 +27,7 @@
 
 ##
 
-<h3>🖥️ SKILLS</h3>
+<h3>🖥️ Навыки </h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
   <img width="12" />
